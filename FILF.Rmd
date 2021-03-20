@@ -14,7 +14,7 @@ output: pdf_document
 
 **Introduction**
 
-In this document, a complete implementation of the proposed fixed-effects estimate method considering complex functional mixed-effects is evaluated. Moreover, comparisons with the navie estimate by `pffr` function and the bootstrap method are evaluated using a dataset (100 subjects whose visit times follow Unif[3,6]) with unspeicified covariance structure. The document is organized as follows. 
+In this document, a complete implementation of the proposed functional generalized estimation equation (fgee) for fixed-effects estimate is evaluated. Moreover, comparisons with the navie estimate by `pffr` function and the bootstrap method are evaluated using a dataset (100 subjects whose visit times follow Unif[3,6]) with unspeicified covariance structure. The document is organized as follows. 
 
 Section 1 gives the main code (function `fgee`) corresponding to the proposed fixed-effects estimate method, and the code (function `fgee.bp`), corresponding to the bootstrap method in the paper. 
 
