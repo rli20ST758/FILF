@@ -1,5 +1,5 @@
 ---
-title: "R code file for fixed-effects inference for longitudinal functional data"
+title: "R code file for fixed-effects inference and tests of correlation for longitudinal functional data"
 author: 
 - Ruonan Li^[Department of Statistics, North Carolina State University]
 - Luo Xiao^[Department of Statistics, North Carolina State University]
